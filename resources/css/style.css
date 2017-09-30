@@ -1,7 +1,25 @@
-h1{
+h1.header{
   font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
   color: white;
   text-align: center;
+}
+div a{
+  color: Aquamarine;
+  font-size: 16px;
+}
+h1 p{
+  font-weight: 300;
+  font-size: 42px;
+  font-family: Verdana;
+  color: white;
+}
+p{
+  font-family: Verdana;
+  color: gray;
+  font-size: 21px;
+}
+.footer{
+  text-align: right;
 }
